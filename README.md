@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sims006
-- 👀 I’m interested in ...full stack web development
-- 🌱 I’m currently learning ...frontend web development
+- 👀 I’m interested in ...solving problems
+- 🌱 I’m currently learning ...AI and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...his
